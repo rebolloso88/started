@@ -2,4 +2,4 @@
 
 ## Archivo para edición
 
-# Empezando a escribir en GitHub
+Empezando a escribir en GitHub
